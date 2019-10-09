@@ -1,0 +1,31 @@
+#My experience and further notes
+
+Put here general information about the steps you took, what you liked, disliked, why did you do X instead of Y and so on.
+
+## HDP Sandbox
+
+I started using the Sandbox and I ...
+Installing the Sandbox was a long process of trial and error.
+Initially, I tried to use virtual box since I had experience with the program beforehand.
+Unfortunately it was not compatible with the current MacOS. As a result, I tried to use Docker but was also not successful.
+After resolving the installation issues with VirtualBox, the Laptop was unfortuanately not able to handle hte Sandbox with only 8 RAM.
+As an alternative, Thiago de Faria suggested to use Azure as a virtual machine which was a quick success. After logging into Ambari and taking a look around, I started to look into spark, scala and sbt. 
+
+## HDFS & Hive on Spark
+
+I did X because of Y...
+Since I had no previous experience with any of the variables, I had to spend some time getting familiar. This included understanding that scala is a language used by spark.
+As a result, I downloaded spark, scala and sbt using brew. In order to install Spark, I also had to install java through my terminal. Afterwards, I researched different ways of implementing spark on my computer
+
+I had issues with Z...
+As stated before, my time was consumed by understanding the connections of scala, spark and sbt. Although I managed to do so, it took a long time and made it impossible for me to move further. 
+
+I liked doing T...
+I really enjoyed exploring Scala and Sparka and the new world it opened up. I will need more time to get behind it fully but I want to do so in the next few days if possible.
+
+## HBase
+
+I did A because of B...
+<br>I had issues with C...
+<br>I liked doing D...
+
